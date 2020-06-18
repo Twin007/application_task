@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
-import 'package:not/feed1.dart';
+import 'package:not/tweets.dart';
 
 void main() => runApp(new MaterialApp(home: new MyApp()));
 
